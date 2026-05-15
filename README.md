@@ -29,7 +29,6 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /><br>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
----
 
 ## GitHub Performance Metrics
 
@@ -38,7 +37,6 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharindaMarasingha&theme=transparent" height="180"/>
 </p>
 
----
 
 ## Professional Connections
 
