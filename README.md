@@ -5,7 +5,7 @@
 
 ## Professional Summary
 
-I am a second year Software Engineering student at SLIIT and a Creative AI Engineer specializing in advanced generative workflows. Currently, I serve as a ComfyUI Specialist at Olee.AI, where I design and optimize production- eady AI image and video systems using diffusion Models
+I am a second year Software Engineering student at SLIIT and a Creative AI Engineer specializing in advanced generative workflows. Currently, I serve as a ComfyUI Specialist at Olee.AI, where I design and optimize production ready AI image and video systems using diffusion Models
 
 Beyond my corporate role, I am the founder of **Kaldor**, a web development firm focused on high performance digital solutions. My professional background also includes extensive experience as a freelancer on **Fiverr**, where I provide Creative AI services to a global client base. I am deeply committed to the open source community, frequently volunteering with **Mozilla** initiatives to mentor others in technical development. Additionally, I have significant experience in public speaking and event management, having hosted large scale university functions for audiences exceeding 15,000.
 
