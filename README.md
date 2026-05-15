@@ -23,7 +23,7 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,typescript,javascript,supabase,mongodb,postgresql,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,bash,git,docker,postman,vscode,ipynb" /><br>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,bash,git,docker,postman,vscode,jupyter" /><br>
   <img src="https://img.shields.io/badge/ComfyUI-FF9000?style=for-the-badge&logo=comfyui&logoColor=white" />
   <img src="https://img.shields.io/badge/Stable_Diffusion-5B46DF?style=for-the-badge&logo=stabilityai&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /><br>
