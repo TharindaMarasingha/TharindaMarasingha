@@ -1,20 +1,21 @@
 <h1 align="center">Tharinda Marasingha</h1>
-<p align="center">Creative AI Engineer | Full-Stack Developer | Software Engineering Student</p>
+<p align="center">Creative AI Engineer | Full Stack Developer | Software Engineering Student</p>
 
 ---
 
 ## Professional Summary
 
-I am a second-year Software Engineering student at SLIIT and a Creative AI Engineer specializing in advanced generative workflows. Currently, I serve as a ComfyUI Specialist at Olee.AI, where I design and optimize production-ready AI image and video systems using Flux, LTX-2, and Wan 2.2.
+I am a second year Software Engineering student at SLIIT and a Creative AI Engineer specializing in advanced generative workflows. Currently, I serve as a ComfyUI Specialist at Olee.AI, where I design and optimize production- eady AI image and video systems using diffusion Models
 
-Beyond my corporate role, I am the founder of Kaldor, a web development firm, and the technical lead for Ceygo, a localized tourism marketplace platform. My background also includes significant experience in public speaking and event management, having hosted large-scale university functions for audiences exceeding 15,000.
+Beyond my corporate role, I am the founder of **Kaldor**, a web development firm focused on high performance digital solutions. My professional background also includes extensive experience as a freelancer on **Fiverr**, where I provide Creative AI services to a global client base. I am deeply committed to the open source community, frequently volunteering with **Mozilla** initiatives to mentor others in technical development. Additionally, I have significant experience in public speaking and event management, having hosted large scale university functions for audiences exceeding 15,000.
 
 ## Areas of Expertise
 
-* **Generative AI Engineering**: Specializing in ComfyUI, custom LoRA training, and VRAM optimization for high-fidelity media production.
-* **Full-Stack Development**: Experienced in building scalable applications using Next.js, Node.js, and Supabase.
-* **Technical Leadership**: Currently leading the end-to-end development of the Ceygo tourism platform.
-* **Content Strategy**: Managing a monetized YouTube channel focused on self-improvement and social intelligence.
+* **Generative AI Engineering**: Specializing in ComfyUI, custom LoRA training ,and VRAM optimization for high fidelity media production.
+* **Full Stack Development**: Experienced in building scalable applications using Next.js, Node.js, and Supabase.
+* **Technical Leadership**: Directing the end-to-end architecture and deployment of scalable digital marketplace solutions and service-oriented platforms.
+* **Content Strategy**: Overseeing a monetized digital media platform with a focus on audience growth, data analytics, and engagement optimization.
+
 
 ---
 
@@ -22,9 +23,12 @@ Beyond my corporate role, I am the founder of Kaldor, a web development firm, an
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,typescript,javascript,supabase,mongodb,postgresql,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,bash,git,docker,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,bash,git,docker,postman,vscode,ipynb" /><br>
+  <img src="https://img.shields.io/badge/ComfyUI-FF9000?style=for-the-badge&logo=comfyui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stable_Diffusion-5B46DF?style=for-the-badge&logo=stabilityai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
-
 ---
 
 ## GitHub Performance Metrics
@@ -60,10 +64,4 @@ Beyond my corporate role, I am the founder of Kaldor, a web development firm, an
   <a href="https://www.facebook.com/tharinda.marasingha" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TharindaMarasingha&label=Profile%20Views&color=0e75b6&style=flat" alt="TharindaMarasingha" />
 </p>
