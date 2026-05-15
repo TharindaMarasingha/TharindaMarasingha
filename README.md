@@ -33,7 +33,7 @@ Beyond my corporate role, I am the founder of **Kaldor**, a web development firm
 ## GitHub Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TharindaMarasingha&show_icons=true&theme=transparent" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharindaMarasingha&theme=transparent" height="180"/>
 </p>
 
 
